@@ -1,0 +1,1 @@
+Follow along with four game projects in a practical, hands-on manner using JavaScript.
